@@ -11,10 +11,6 @@ custom domain `vnmattorneys.co.za`.
 - `CNAME` — tells GitHub Pages to serve this site on `vnmattorneys.co.za`
 
 ## Before you publish
-- **Director's photo**: `director` section currently shows a placeholder monogram
-  (`assets/director-placeholder.svg`). Save a professional photo as e.g.
-  `assets/director.jpg` and update the `src` in `index.html` (search for
-  `directorPhoto`).
 - **Practice areas**: the list in the "Areas of Practice" section is a reasonable
   general-practice starting point, not confirmed content — check it with Vangeli
   and edit the `<div class="practice-card">` blocks in `index.html` as needed.

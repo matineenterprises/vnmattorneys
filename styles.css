@@ -310,13 +310,6 @@ a{ color: inherit; text-decoration: none; }
   padding: 14px;
 }
 .portrait-frame img{ width:100%; height: auto; aspect-ratio: 4/5; object-fit: cover; }
-.portrait-caption{
-  font-family: var(--font-mono);
-  font-size: 0.72rem;
-  color: var(--text-muted-dark);
-  margin-top: 12px;
-  text-align:center;
-}
 .director-cred{
   font-family: var(--font-mono);
   font-size: 0.82rem;
